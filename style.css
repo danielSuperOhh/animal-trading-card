@@ -147,3 +147,8 @@
     font-size: 11.6px;
 }
 
+@media screen and (max-width: 500px){
+    .main-section{
+        padding: 5px 5px;
+    }    
+}
